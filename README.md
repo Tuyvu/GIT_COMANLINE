@@ -9,3 +9,5 @@ bước 2:
    + git add .
    + git commit -m "message"==> add một message  để cho check 
    + git push origin master ==> 
+
+   +git clone <link ssh hoặc http> .
